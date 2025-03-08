@@ -19,11 +19,10 @@ int main() {
     return 0;
 };
 
-
-
-//  Output: 
+// Output: 
 // Enter the values: 4
 // ABCD
 // ABCD
 // ABCD
-// ABCD 
+// ABCD
+
